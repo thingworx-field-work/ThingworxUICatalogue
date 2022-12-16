@@ -23,9 +23,9 @@ PTC is not responsible for any maintenance for this software.
 
 # Overview
 In this project you will find most of the out of the box thingworx widgets + 2 extensions (Google Maps + OpenStreetMap) ready for use, so the user can see how a particular widget is working and how can be customized by navigating through the mashups.
+
 The project is divided into 6 categories (Actions, Input, Charts, Data Display, Maps and Custom Dynamic Tree).
-It’s been developed on ThingWorx 9.3.5 b1258 version.
-For further assistance you can reach me at dpetroianu@ ptc .com
+
 
 # License
 PTC Proprietary Freeware License
